@@ -11,6 +11,7 @@ using namespace std;
     cout.tie(0);
 
 unordered_map<char, string> hashmap;
+// unordered_map<char, string> hashmap;
 
 struct huffnode
 {
